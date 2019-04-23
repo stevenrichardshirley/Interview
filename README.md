@@ -1,2 +1,2 @@
-# Interview
-Headstorm's collaborative, pull-request based technical interview challenges.
+# headstorm-challenge
+Interview challenge from Headstorm.
